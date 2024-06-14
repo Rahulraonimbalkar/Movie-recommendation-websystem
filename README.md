@@ -2,9 +2,9 @@
 
 Content Based Movie Recommender System
 
-Movie Recommender System is the python Based Project To Create Content Based Recommender System using TMDB 5000 movie dataset from kaggle
+Movie Recommender System is the python Based Project To Create Content Based Recommender System using TMDB 5000 movie dataset.
 
-Link: https://u-rex13-movie-recommender-system-app-2ap1dd.streamlit.app/
+Link to website: https://u-rex13-movie-recommender-system-app-2ap1dd.streamlit.app/
 
 * * *
 
